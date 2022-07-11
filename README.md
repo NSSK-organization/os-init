@@ -45,6 +45,14 @@ and follow the instructions from there.
 
 *And yes, you **can** type `balls`.*
 
+### Cleaning up
+
+When you are done, go back into your home folder (~) if you aren't already there, and type 
+
+```
+ncleanup
+```
+
 ## How the files are structured
 
 The files are structured like a shell, i. e. starting at ~ and going down from there.
