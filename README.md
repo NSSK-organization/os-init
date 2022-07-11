@@ -43,6 +43,8 @@ and follow the instructions from there.
 
 >Note: this **will not** work if you do not extract to your home directory!
 
+*And yes, you **can** type `balls`.*
+
 ## How the files are structured
 
 The files are structured like a shell, i. e. starting at ~ and going down from there.
