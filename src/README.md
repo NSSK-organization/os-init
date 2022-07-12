@@ -20,3 +20,16 @@ gcc .soft.c -o ./.soft
 gcc .ninstall.c -o ./.ninstall
 ```
 Then refresh your terminal and try again.
+
+## Permission Issues
+
+Sometimes you may get a permission error. If that is the case, go into your terminal and type 
+
+```
+sudo su
+```
+and run the program again.
+
+## Installation issues
+
+I did not create any of the softwares that are being installed. If you encounter an error, I would suggest going to the troubleshooting guide of that individual software. If you do not know which software caused the error, copy and paste the error into google.
