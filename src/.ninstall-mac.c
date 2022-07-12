@@ -4,5 +4,6 @@
 int main() {
     system("sh .brew-install.sh"); /* Install Brew */
     system("sh .git-install-mac.sh"); /* Install Git for Mac */
-    /* TODO: Add installations for Jupyter Notebook and Python */
+    system("sh .python-install-mac.sh"); /* Install Python 3 for Mac (Python 2 comes with it by default) */
+    /* TODO: Add installations for Jupyter Notebook and GVIM */
 }
