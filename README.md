@@ -1,6 +1,25 @@
 # Operating System Initialization
 
-Here are the important things I like to do on a brand new computer.
+Here are the important things I like to do on a brand new computer. Just follow the quickstart instructions, run a command, sit back, and relax as we do all the work for you!
+
+## Quickstart
+
+For more detailed information, read the section titled "Getting Started".
+
+Before you run, you will need:
+* Linux or MacOS on your computer
+
+### Steps
+
+1. Open your terminal. From there, copy the following code in:
+```
+cd ~
+rm .*shrc
+rm .vimrc
+```
+2. Download this repository as a ZIP file, and extract it to your home (~) directory.
+>Note: You must have all files extracted to your home directory or this will not work!
+3. To get started, type `helpme` and follow the instructions from there.
 
 ## Getting started
 
