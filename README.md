@@ -16,7 +16,9 @@ Before you run, you will need:
 cd ~
 rm .*shrc
 rm .vimrc
+rm .profile
 ```
+>Note: You may get a notice saying that "this file does not exist". That's fine -- the above code is there to remove the files, so if they don't exist, just continue.
 2. Download this repository as a ZIP file, and extract it to your home (~) directory.
 >Note: You must have all files extracted to your home directory or this will not work!
 3. To get started, type `helpme` and follow the instructions from there.
