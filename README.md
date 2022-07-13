@@ -1,6 +1,8 @@
 # Operating System Initialization
 
-Here are the important things I like to do on a brand new computer. Just follow the quickstart instructions, run a command, sit back, and relax as we do all the work for you!
+Here are the important things I like to do on a brand new computer. Just follow the quickstart instructions, run a command, sit back, and relax as we do all the work for you!  
+
+For help debugging, go to [src/README.md](https://github.com/NSSK-organization/os-init/tree/main/src#readme)
 
 ## Quickstart
 
