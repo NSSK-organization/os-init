@@ -4,8 +4,8 @@
 #include <stdlib.h>
 
 int main() {
-    system("sh .brew-install.sh"); /* Install brew */
-    system("sh .git-install-linux.sh"); /* Install git */
-    system("sh .python-install-linux.sh"); /* Install python */
+    system("sh src/.brew-install.sh"); /* Install brew */
+    system("sh src/.git-install-linux.sh"); /* Install git */
+    system("sh src/.python-install-linux.sh"); /* Install python */
     /* TODO: Add scripts for installing Jupyter notebook and Vim */
 }
