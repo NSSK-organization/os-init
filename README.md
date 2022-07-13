@@ -7,7 +7,7 @@ Here are the important things I like to do on a brand new computer. Just follow 
 For more detailed information, read the section titled "Getting Started".
 
 Before you run, you will need:
-* Linux or MacOS on your computer
+* Linux or MacOS on your computer (Currently, this app only works with MacOS)
 
 ### Steps
 
